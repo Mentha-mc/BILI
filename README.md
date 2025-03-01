@@ -70,9 +70,9 @@
 
 ## 3.将获取到参数填到Secrets
 
-在`Secrets`中的`Name`和`Value`格式如下：
+在`Secrets`中的`名字`和`Value`格式如下：
 
-Name | Value
+名字| Value
 -|-
 BILI_JCT | xxxxx
 DEDEUSERID | xxxxx
@@ -92,7 +92,7 @@ SESSDATA | xxxxx
 
 默认`push`操作会触发工作流运行。
 
-+ 打开`README.md`，将里面的 😄 删除一个即可。
++ 打开`README.md`，将里面的  删除一个即可。
 
 ![](img/进行一次push操作.gif)
 
